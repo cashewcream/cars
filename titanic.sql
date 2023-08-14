@@ -1,4 +1,4 @@
--- Created a table and imported the dataset from kaggle https://www.kaggle.com/datasets/yasserh/titanic-dataset
+-- Created a table and imported the dataset from kaggle https://www.kaggle.com/datasets/yasserh/titanic-dataset to MySQL.
 CREATE TABLE titanic.train (
 PassengerId INT NULL,
 Survived INT NULL,
